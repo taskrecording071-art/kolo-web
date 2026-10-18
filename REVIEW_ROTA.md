@@ -22,4 +22,8 @@ Every week one engineer is the **review buddy**. The review buddy reviews every 
 | Chioma Eze | Mon 9 Nov – Fri 13 Nov 2026 |
 
 ## Schedule (4 weeks from Mon 26 Oct 2026)
-_Not planned yet._
+Week | Review buddy
+|26-30 Oct 2026 | Ada |
+|2-6 Nov 2026 | Ben|
+|9-13 Nov 2026| Ada (covering chioma's leave)|
+|16-20 Nov 2026| Chioma|
