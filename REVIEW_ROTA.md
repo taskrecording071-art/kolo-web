@@ -12,9 +12,9 @@ Every week one engineer is the **review buddy**. The review buddy reviews every 
 ## Team
 | Name | Email |
 |---|---|
-| Ada Nwankwo | task.recording.073@gmail.com |
-| Ben Uche | task.recording.073@gmail.com |
-| Chioma Eze | task.recording.073@gmail.com |
+| Ada Nwankwo | task.recording.070@gmail.com |
+| Ben Uche | task.recording.071@gmail.com |
+| Chioma Eze | task.recording.074@gmail.com |
 
 ## Leave
 | Name | Dates |
