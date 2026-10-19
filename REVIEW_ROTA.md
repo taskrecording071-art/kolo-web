@@ -3,7 +3,7 @@
 Every week one engineer is the **review buddy**. The review buddy reviews every open pull request within one working day, Monday to Friday.
 
 ## Rules
-1. Order: **Nia → Tom → Maya**, then back to Ada.
+1. Order: **Nia → Tom → Maya**, then back to Nia.
 2. Each turn lasts one working week (Monday to Friday).
 3. If the next person is on leave that week, skip to the following person. The skipped person takes the next free week.
 4. Every turn goes on the shared **Kolo Review Rota** Google Calendar as an all-day event called `Review buddy: <name>`, with the person added as a guest.
